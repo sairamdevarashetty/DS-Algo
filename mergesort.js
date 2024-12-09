@@ -40,7 +40,8 @@ function splitArray(arr) {
   return res;
 }
 
-function d(array){
+
+function mergesort(array){
    return splitArray(array);
 }
 
